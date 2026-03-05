@@ -1,0 +1,1 @@
+Modelo de machine learning em R para estimar e priorizar a probabilidade de adesão de municípios a um programa público. O projeto utiliza tidymodels e XGBoost, com pipeline completo de pré-processamento, treino, validação (AUC e matriz de confusão) e geração de ranking estratégico para apoio à tomada de decisão. Dados não públicos não estão incluídos no repositório.
